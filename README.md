@@ -12,6 +12,8 @@ Below, there are links to WebCal feeds (.ics calendar feeds) you can use to get 
 
 [Sunday School Lessons](webcal://p56-caldav.icloud.com/published/2/MTM5MTEzNzAzMTM5MTEzN1Amw3kZHQnWL_DB0tTpgRT5Gugji6vtJl9VEAN-jc-btgOtjt0Cm_Y78lenmZxlsJnXOZJ335fF2qpZ9hqC1HE)   
 
+[Children's Church Lessons](webcal://p56-caldav.icloud.com/published/2/MTM5MTEzNzAzMTM5MTEzN1Amw3kZHQnWL_DB0tTpgRQg8OlDN9sdE6c9Wc8AqnARYJ39wvSO__g9nJc7dE9JdGuYBwRKFd3cjAgWxAAk9o0)  
+
 How to actually add the subscription depends on your calendar program:
 
 On Google Calendar, you'll need to go to "other calendars" in the sidebar and add a new calendar "From URL."
