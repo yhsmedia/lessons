@@ -14,5 +14,6 @@ How to actually add the subscription depends on your calendar program:
 
 On Google Calendar, you'll need to go to "other calendars" in the sidebar and add a new calendar "From URL."
 On Apple's Calendar program, go to File --> New Calendar Subscription in the toolbar.
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
   
 This site was built using [GitHub Pages](https://pages.github.com/).
