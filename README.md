@@ -6,7 +6,7 @@
 
 [Going God's Way Lesson Guide, Fall 2023](https://yhsmedia.github.io/lessons/Going%20Gods%20Way%20Teacher%20Guide.pdf)  
 
-## 📆 Lesson Calendar Subscription Feeds
+## 📆 Lesson Calendar Subscription Feeds 
 ### How do I use these?
 Below, there are links to WebCal feeds (.ics calendar feeds) you can use to get the Sunday School and Children's Church lessons automatically added to your calendar. To subscribe to a calendar, "right-click" on the feed you want and then copy and paste the URL (or "link address") for the feed into your calendar program of choice.
 
