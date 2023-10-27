@@ -1,8 +1,8 @@
 # Preschool Lesson Resources
 ## Resources for Children's Church Lessons  
 
-5 Year Old Children's Church Teacher Schedule
-<img align="top" src="https://yhsmedia.github.io/lessons/IMG_2376.jpeg" width="30%" height="30%">
+5 Year Old Children's Church Teacher Schedule  
+<img align="top" src="https://yhsmedia.github.io/lessons/IMG_10-27-23.jpg" width="30%" height="30%">
 
 
 [2023-24 Childrens Church Lessons](https://yhsmedia.github.io/lessons/2023%20-%2024%20Childrens%20Church%20Lessons%20PDF.pdf)  
