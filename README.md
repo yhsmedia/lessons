@@ -2,20 +2,7 @@
 ## Resources for Children's Church Lessons  
 
 5 Year Old Children's Church Teacher Schedule
-Childrens Church Schedule 
-Week	Boys Bible	Boys Review 
-1	Daniel	Randy
-2	Bruce 	Joel
-3	Daniel 	Josh
-4	Brian	Bruce
-5	Bruce 	Daniel 
-
-Week	Girls Bible	Girls Review
-1	Briana F	Charity 
-2	Nancy	Christie
-3	Nancy	Rachel
-4	Mandy	Karen
-5	Nancy	Brianna Munn
+<img align="top" src="https://yhsmedia.github.io/lessons/IMG_2376.jpeg" width="30%" height="30%">
 
 
 [2023-24 Childrens Church Lessons](https://yhsmedia.github.io/lessons/2023%20-%2024%20Childrens%20Church%20Lessons%20PDF.pdf)  
