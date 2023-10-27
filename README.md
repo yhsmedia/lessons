@@ -4,7 +4,7 @@ Resources for Sunday School Lessons
 [Jonah Part 1 & 2](https://yhsmedia.github.io/lessons/Jonah%20Part%201%20and%202.pdf)  
 [Noah Part 1 & 2](https://yhsmedia.github.io/lessons/Noah%20Part%201%20%26%202.pdf)  
 
-Going God's Way Lessons
+[Going God's Way Lessons](https://yhsmedia.github.io/lessons/Going%20Gods%20Way%20Teacher%20Guide.pdf)  
 
 
   
