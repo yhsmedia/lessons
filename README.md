@@ -6,6 +6,7 @@
 [Noah Part 1 & 2](https://yhsmedia.github.io/lessons/Noah%20Part%201%20%26%202.pdf)  
 
 [Going God's Way Lesson Guide, Fall 2023](https://yhsmedia.github.io/lessons/Going%20Gods%20Way%20Teacher%20Guide.pdf)  
+[God's Word and Me Lesson Guide, Winter 2023]()  
 
 ## 📆 Lesson Calendar Subscription Feeds 
 ### How do I use these?
