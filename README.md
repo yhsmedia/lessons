@@ -4,6 +4,7 @@
 [Ten Commandments Visual](https://yhsmedia.github.io/lessons/Ten%20Commandments%20Visual.pdf)  
 [Jonah Part 1 & 2](https://yhsmedia.github.io/lessons/Jonah%20Part%201%20and%202.pdf)  
 [Noah Part 1 & 2](https://yhsmedia.github.io/lessons/Noah%20Part%201%20%26%202.pdf)  
+## Teacher Guides  
 
 [Going God's Way Lesson Guide, Fall 2023](https://yhsmedia.github.io/lessons/Going%20Gods%20Way%20Teacher%20Guide.pdf)  
 [God's Word and Me Lesson Guide, Winter 2023](https://yhsmedia.github.io/lessons/God’s%20Word%20and%20Me%20Teacher%20Guide%20PDF.pdf)  
