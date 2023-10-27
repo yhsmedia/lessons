@@ -8,7 +8,7 @@
 
 ## 📆 Lesson Calendar Subscription Feeds 
 ### How do I use these?
-Below, there are links to WebCal feeds (.ics calendar feeds) you can use to get the Sunday School and Children's Church lessons automatically added to your calendar. To subscribe to a calendar, "right-click" on the feed you want and then copy and paste the URL (or "link address") for the feed into your calendar program of choice.
+Below, there are links to WebCal feeds (.ics calendar feeds) you can use to get the Sunday School and Children's Church lessons automatically added to your calendar. To subscribe to a calendar, click on the feed you want.  
 
 [Sunday School Lessons](webcal://p56-caldav.icloud.com/published/2/MTM5MTEzNzAzMTM5MTEzN1Amw3kZHQnWL_DB0tTpgRT5Gugji6vtJl9VEAN-jc-btgOtjt0Cm_Y78lenmZxlsJnXOZJ335fF2qpZ9hqC1HE)   
 
