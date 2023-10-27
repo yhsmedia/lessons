@@ -14,7 +14,7 @@ Below, there are links to WebCal feeds (.ics calendar feeds) you can use to get 
 
 [Children's Church Lessons](webcal://p56-caldav.icloud.com/published/2/MTM5MTEzNzAzMTM5MTEzN1Amw3kZHQnWL_DB0tTpgRQg8OlDN9sdE6c9Wc8AqnARYJ39wvSO__g9nJc7dE9JdGuYBwRKFd3cjAgWxAAk9o0)  
 
-<img src="https://yhsmedia.github.io/lessons/IMG_2376.jpeg" width="20%" height="20%"><img src="https://yhsmedia.github.io/lessons/Lesson%20Detail.png" width="20%" height="20%">  
+<img align="top" src="https://yhsmedia.github.io/lessons/IMG_2376.jpeg" width="20%" height="20%"> <img align="top" src="https://yhsmedia.github.io/lessons/Lesson%20Detail.png" width="20%" height="20%">  
 
   
 This site was built using [GitHub Pages](https://pages.github.com/).
