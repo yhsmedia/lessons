@@ -1,15 +1,18 @@
 # Preschool Lesson Resources
-## Resources for Sunday School Lessons  
+## Resources for Children's Church Lessons  
+
 [2023-24 Childrens Church Lessons](https://yhsmedia.github.io/lessons/2023%20-%2024%20Childrens%20Church%20Lessons%20PDF.pdf)  
 [Ten Commandments Visual](https://yhsmedia.github.io/lessons/Ten%20Commandments%20Visual.pdf)  
 [Jonah Part 1 & 2](https://yhsmedia.github.io/lessons/Jonah%20Part%201%20and%202.pdf)  
 [Noah Part 1 & 2](https://yhsmedia.github.io/lessons/Noah%20Part%201%20%26%202.pdf)  
-## Teacher Guides  
+
+## Sunday School Teacher Guides  
 
 [Going God's Way Lesson Guide, Fall 2023](https://yhsmedia.github.io/lessons/Going%20Gods%20Way%20Teacher%20Guide.pdf)  
 [God's Word and Me Lesson Guide, Winter 2023](https://yhsmedia.github.io/lessons/God’s%20Word%20and%20Me%20Teacher%20Guide%20PDF.pdf)  
 
 ## 📆 Lesson Calendar Subscription Feeds 
+
 ### How do I use these?
 Below, there are links to WebCal feeds (.ics calendar feeds) you can use to get the Sunday School and Children's Church lessons automatically added to your calendar. To subscribe to a calendar, click on the feed you want.  
 
@@ -20,4 +23,4 @@ Below, there are links to WebCal feeds (.ics calendar feeds) you can use to get 
 <img align="top" src="https://yhsmedia.github.io/lessons/IMG_2376.jpeg" width="30%" height="30%"> <img align="top" src="https://yhsmedia.github.io/lessons/Lesson%20Detail.png" width="30%" height="30%">  
 
   
-This site was built using [GitHub Pages](https://pages.github.com/).
+### This site was built using [GitHub Pages](https://pages.github.com/).
