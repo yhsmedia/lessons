@@ -4,7 +4,7 @@
 [Jonah Part 1 & 2](https://yhsmedia.github.io/lessons/Jonah%20Part%201%20and%202.pdf)  
 [Noah Part 1 & 2](https://yhsmedia.github.io/lessons/Noah%20Part%201%20%26%202.pdf)  
 
-[Going God's Way Lesson Guide](https://yhsmedia.github.io/lessons/Going%20Gods%20Way%20Teacher%20Guide.pdf)  
+[Going God's Way Lesson Guide, Fall 2023](https://yhsmedia.github.io/lessons/Going%20Gods%20Way%20Teacher%20Guide.pdf)  
 
 ## 📆 Lesson Calendar Subscription Feeds
 ### How do I use these?
