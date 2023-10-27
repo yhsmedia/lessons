@@ -6,7 +6,13 @@
 
 [Going God's Way Lesson Guide](https://yhsmedia.github.io/lessons/Going%20Gods%20Way%20Teacher%20Guide.pdf)  
 
-## Calendars  
+## Lesson Calendar Subscription Feeds
+### How do I use these?
+In the table below, there are links to WebCal feeds (.ics calendar feeds) you can use to get events happening at the Library automatically added to your calendar. To subscribe to a calendar, "right-click" on the feed you want and then copy and paste the URL (or "link address") for the feed into your calendar program of choice.
 
+How to actually add the subscription depends on your calendar program:
+
+On Google Calendar, you'll need to go to "other calendars" in the sidebar and add a new calendar "From URL."
+On Apple's Calendar program, go to File --> New Calendar Subscription in the toolbar.
   
 This site was built using [GitHub Pages](https://pages.github.com/).
