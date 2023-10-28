@@ -16,7 +16,7 @@
 
 [Going God's Way Lesson Guide, Fall 2023](https://yhsmedia.github.io/lessons/Going%20Gods%20Way%20Teacher%20Guide.pdf)  
 [God's Word and Me Lesson Guide, Winter 2023](https://yhsmedia.github.io/lessons/God’s%20Word%20and%20Me%20Teacher%20Guide%20PDF.pdf)  
-
+[Following after God Lesson Guide, Spring 2024]
 ## 📆 Lesson Calendar Subscription Feeds 
 
 ### How do I use these?
