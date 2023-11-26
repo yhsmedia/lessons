@@ -31,6 +31,7 @@ Below, there are links to WebCal feeds (.ics calendar feeds) you can use to get 
 
 [Children's Church Lessons Calendar Subscription](webcal://p56-caldav.icloud.com/published/2/MTM5MTEzNzAzMTM5MTEzN1Amw3kZHQnWL_DB0tTpgRQg8OlDN9sdE6c9Wc8AqnARYJ39wvSO__g9nJc7dE9JdGuYBwRKFd3cjAgWxAAk9o0)  
 
+## Example of how calendar subscription looks on your phone
 <img align="top" src="https://yhsmedia.github.io/lessons/IMG_2376.jpeg" width="30%" height="30%"> <img align="top" src="https://yhsmedia.github.io/lessons/Lesson%20Detail.png" width="30%" height="30%">  
 
   
