@@ -19,7 +19,7 @@
 [Following after God Lesson Guide, Spring 2024](https://yhsmedia.github.io/lessons/Following%20After%20God%20Teacher%20Guide%20-%20%20Spring.pdf)  
 
 ## Sunday School Teaching Schedule
-[God's Word and Me Lesson Schedule Winter 2023] ()
+[God's Word and Me Lesson Schedule Winter 2023](https://yhsmedia.github.io/lessons/blob/main/SS%20Calendar%20Winter%202023%20God's%20Word%20and%20Me.pdf)
 
 
 ## 📆 Lesson Calendar Subscription Feeds 
