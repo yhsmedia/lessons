@@ -10,6 +10,7 @@
 ## Resources for Children's Church Lessons   
 
 [2024-25 Childrens Church Lessons](https://yhsmedia.github.io/lessons/2024-25%20Childrens%20Church%20Lessons%20PDF.pdf)
+
 [Ten Commandments Visual](https://yhsmedia.github.io/lessons/Ten%20Commandments%20Visual.pdf)  
 [Jonah Part 1 & 2](https://yhsmedia.github.io/lessons/Jonah%20Part%201%20and%202.pdf)  
 [Noah Part 1 & 2](https://yhsmedia.github.io/lessons/Noah%20Part%201%20%26%202.pdf)  
