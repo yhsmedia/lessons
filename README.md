@@ -3,7 +3,7 @@
 
 ## 5 Year Old Children's Church Teacher Schedule 
 
-<img align="top" src="https://yhsmedia.github.io/lessons/IMG_10-27-23.jpg" width="70%">  
+<img align="top" src="https://yhsmedia.github.io/lessons/CC_Schedule_Summer_2024.png" width="70%">  
 
 ## Resources for Children's Church Lessons   
 
