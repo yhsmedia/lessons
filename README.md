@@ -27,6 +27,11 @@
 
 [God's Word and Me Teaching Calendar Winter 2023](https://yhsmedia.github.io/lessons/SS%20Calendar%20Winter%202023%20God's%20Word%20and%20Me.pdf)
 
+## HS Helper Schedules
+
+[4 Yr Olds HS Summer Helpers 2024](https://yhsmedia.github.io/lessons/4%20yr%20olds%20HS%20helpers%20Summer%202024.pdf)
+
+[5 Yr Olds HS Summer Helpers 2024](https://yhsmedia.github.io/lessons/5%20yr%20olds%20HS%20helpers%20Summer%202024.pdf)
 
 
 ## 📆 Lesson Calendar Subscription Feeds 
