@@ -23,7 +23,7 @@
 [Footprints through the Bible, Summer 2024](https://yhsmedia.github.io/lessons/Footprints%20Through%20the%20Bible%20Teacher%20Guide.pdf)
 
 ## Sunday School Teaching Calendars 
-[Let's Learn About God, Fall 2024](https://yhsmedia.github.io/lessons/SS%20Calendar%20Fall%202024%20Let's%20Learn%20About%20God%20.pdf)
+[Let's Learn About God Teaching Calendar, Fall 2024](https://yhsmedia.github.io/lessons/SS%20Calendar%20Fall%202024%20Let's%20Learn%20About%20God%20.pdf)
 
 [Footprints through the Bible Teaching Calendar Summer 2024](https://yhsmedia.github.io/lessons/SS%20Calendar%20Summer%202024%20Footprints%20through%20the%20Bible.pdf)
 
