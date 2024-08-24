@@ -22,7 +22,7 @@
 [Following after God Lesson Guide, Spring 2024](https://yhsmedia.github.io/lessons/Following%20After%20God%20Teacher%20Guide%20-%20%20Spring.pdf)  
 [Footprints through the Bible, Summer 2024](https://yhsmedia.github.io/lessons/Footprints%20Through%20the%20Bible%20Teacher%20Guide.pdf)
 
-[Let's Learn About God, Fall 2024 Teacher Guide](https://github.com/yhsmedia/lessons/blob/7597f37e94f9a6de2b8de73e01261764213435aa/Let's%20Learn%20About%20God%20Teacher%20Guide.pdf)
+[Let's Learn About God, Fall 2024 Teacher Guide](https://yhsmedia.github.io/lessons/blob/Let's%20Learn%20About%20God%20Teacher%20Guide.pdf)
 
 ## Sunday School Teaching Calendars 
 [Let's Learn About God Teaching Calendar, Fall 2024](https://yhsmedia.github.io/lessons/SS%20Calendar%20Fall%202024%20Let's%20Learn%20About%20God%20.pdf)
