@@ -33,9 +33,9 @@
 
 ## Hearland Helper Schedules
 
-[4 Yr Olds Helpers 2024-25](https://yhsmedia.github.io/lessons/4%20yr%20olds%20HS%20helpers%20Summer%202024.pdf)
+[4 Yr Olds Helpers 2024-25](https://yhsmedia.github.io/lessons/Heartland%20Helpers%204yr%20olds%2024-25.pdf)
 
-[5 Yr Olds Helpers 2024-25](https://yhsmedia.github.io/lessons/5%20yr%20olds%20HS%20helpers%20Summer%202024.pdf)
+[5 Yr Olds Helpers 2024-25](https://yhsmedia.github.io/lessons/Heartland%20Helpers%205yr%20olds%2024-25.pdf)
 
 
 ## 📆 Lesson Calendar Subscription Feeds 
