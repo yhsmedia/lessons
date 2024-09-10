@@ -31,7 +31,7 @@
 
 [God's Word and Me Teaching Calendar Winter 2023](https://yhsmedia.github.io/lessons/SS%20Calendar%20Winter%202023%20God's%20Word%20and%20Me.pdf)
 
-## Hearland Helper Schedules
+## Heartland Helper Schedules
 
 [4 Yr Olds Helpers 2024-25](https://yhsmedia.github.io/lessons/Heartland%20Helpers%204yr%20olds%2024-25.pdf)
 
