@@ -25,6 +25,8 @@
 [Let's Learn About God Lesson Guide, Fall 2024](https://yhsmedia.github.io/lessons/Let's%20Learn%20About%20God%20Teacher%20Guide.pdf)
 
 ## Sunday School Teaching Calendars 
+[I Love God's Word Teaching Calendar, Winter 2024](https://yhsmedia.github.io/yhsmedia/lessons/I%20Love%20God%E2%80%99s%20Word%20Teaching%20Calendar%2C%20Winter%202024.pdf)
+
 [Let's Learn About God Teaching Calendar, Fall 2024](https://yhsmedia.github.io/lessons/SS%20Calendar%20Fall%202024%20Let's%20Learn%20About%20God%20.pdf)
 
 [Footprints through the Bible Teaching Calendar Summer 2024](https://yhsmedia.github.io/lessons/SS%20Calendar%20Summer%202024%20Footprints%20through%20the%20Bible.pdf)
