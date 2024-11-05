@@ -21,9 +21,8 @@
 [God's Word and Me Lesson Guide, Winter 2023](https://yhsmedia.github.io/lessons/God’s%20Word%20and%20Me%20Teacher%20Guide%20PDF.pdf)  
 [Following after God Lesson Guide, Spring 2024](https://yhsmedia.github.io/lessons/Following%20After%20God%20Teacher%20Guide%20-%20%20Spring.pdf)  
 [Footprints through the Bible Lesson Guide, Summer 2024](https://yhsmedia.github.io/lessons/Footprints%20Through%20the%20Bible%20Teacher%20Guide.pdf)
-
 [Let's Learn About God Lesson Guide, Fall 2024](https://yhsmedia.github.io/lessons/Let's%20Learn%20About%20God%20Teacher%20Guide.pdf)
-
+[I Love God's Word Lesson Guide, Winter 2024-25](https://yhsmedia.github.io/lessons/)
 ## Sunday School Teaching Calendars 
 [I Love God's Word Teaching Calendar, Winter 2024](https://yhsmedia.github.io/lessons/I%20Love%20God%E2%80%99s%20Word%20Teaching%20Calendar%2C%20Winter%202024.pdf)
 
