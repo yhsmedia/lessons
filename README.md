@@ -1,11 +1,17 @@
 # Preschool Lesson Resources
 
 
-## 5 Year Old Children's Church Teacher Schedule 
+# 5 Yr Old Children's Church Teaching Schedule 
 
-<img align="top" src="https://yhsmedia.github.io/lessons/CC_Schedule_Summer_2024.png" width="70%">  
+| Week | Boys Bible | Boys Review |
+|------|------------|-------------|
+| 1    |  Daniel  |Randy |
+| 2    | Bruce |Joel |
+| 3    |Bruce |Jon K |
+| 4    |Bruce |J. Magas |
+| 5    |Bruce | Bruce |
 
- Revised 5/25/24
+ Revised 1/11/25
 
 ## Resources for Children's Church Lessons   
 
