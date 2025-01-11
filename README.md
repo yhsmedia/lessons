@@ -11,6 +11,14 @@
 | 4    | Bruce | J. Magas |
 | 5    | Bruce | Bruce |
 
+| Week | Girls Bible | Boys Review |
+|------|------------|-------------|
+| 1    |  Bri F.  | Charity |
+| 2    | Nancy | Christie |
+| 3    | Nancy | Rachel |
+| 4    | Mandy | Karen |
+| 5    | Nancy | Paige C. |
+
  Revised 1/11/25
 
 ## Resources for Children's Church Lessons   
