@@ -1,7 +1,7 @@
 # Preschool Lesson Resources
 
 
-# 5 Yr Old Children's Church Teaching Schedule 
+## 5 Yr Old Children's Church Teaching Schedule 
 
 | Week | Boys Bible | Boys Review |
 |------|------------|-------------|
