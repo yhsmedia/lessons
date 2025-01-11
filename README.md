@@ -5,11 +5,11 @@
 
 | Week | Boys Bible | Boys Review |
 |------|------------|-------------|
-| 1    |  Daniel  |Randy |
-| 2    | Bruce |Joel |
-| 3    |Bruce |Jon K |
-| 4    |Bruce |J. Magas |
-| 5    |Bruce | Bruce |
+| 1    | Daniel  |Randy |
+| 2    | Bruce | Joel |
+| 3    | Bruce | Jon K. |
+| 4    | Bruce | J. Magas |
+| 5    | Bruce | Bruce |
 
  Revised 1/11/25
 
