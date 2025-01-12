@@ -30,7 +30,7 @@
 [Noah Part 1 & 2](https://yhsmedia.github.io/lessons/Noah%20Part%201%20%26%202.pdf)  
 
 ## Sunday School Teacher Guides  
-[Growing in God's Word, Spring 2025](https://yhsmedia.github.io/lessons/)  
+[Growing in God's Word, Spring 2025](https://yhsmedia.github.io/lessons/Growing%20In%20Gods%20Word%20Teacher%20Guide.pdf)  
 
 [I Love God's Word Lesson Guide, Winter 2024](https://yhsmedia.github.io/lessons/I%20Love%20God’s%20Word%20Teacher%20Guide.pdf)  
 
