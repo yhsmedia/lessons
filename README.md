@@ -54,7 +54,7 @@ Growing in God's Word Teaching Calendar, Spring 2025
 
 [Footprints through the Bible Teaching Calendar, Summer 2024](https://yhsmedia.github.io/lessons/SS%20Calendar%20Summer%202024%20Footprints%20through%20the%20Bible.pdf)  
 
-[God's Word and Me Teaching Calendar, Winter 2023](https://yhsmedia.github.io/lessons/SS%20Calendar%20Winter%202023%20God's%20Word%20and%20Me.pdf)
+[God's Word and Me Teaching Calendar, Winter 2023](https://yhsmedia.github.io/lessons/SS%20Calendar%20Winter%202023%20God's%20Word%20and%20Me.pdf)  
 
 ## Heartland Helper Schedules
 
