@@ -11,7 +11,7 @@
 | 4    | Bruce | J. Magas |
 | 5    | Bruce | Bruce |
 
-| Week | Girls Bible | Boys Review |
+| Week | Girls Bible | Girls Review |
 |------|------------|-------------|
 | 1    |  Bri F.  | Charity |
 | 2    | Nancy | Christie |
