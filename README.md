@@ -45,7 +45,7 @@
 [Going God's Way Lesson Guide, Fall 2023](https://yhsmedia.github.io/lessons/Going%20Gods%20Way%20Teacher%20Guide.pdf)  
 
 
-## Sunday School Teaching Calendars 
+## Sunday School Lesson Calendars 
 Growing in God's Word Teaching Calendar, Spring 2025  
 
 [I Love God's Word Teaching Calendar, Winter 2024](https://yhsmedia.github.io/lessons/I%20Love%20God%E2%80%99s%20Word%20Teaching%20Calendar%2C%20Winter%202024.pdf)
