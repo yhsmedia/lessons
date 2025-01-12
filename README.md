@@ -30,8 +30,9 @@
 [Noah Part 1 & 2](https://yhsmedia.github.io/lessons/Noah%20Part%201%20%26%202.pdf)  
 
 ## Sunday School Teacher Guides  
+[Growing in God's Word, Spring 2025](https://yhsmedia.github.io/lessons/) 
 [I Love God's Word Lesson Guide, Winter 2024](https://yhsmedia.github.io/lessons/I%20Love%20God’s%20Word%20Teacher%20Guide.pdf)  
-## Sunday School Teaching Calendars 
+
 [Let's Learn About God Lesson Guide, Fall 2024](https://yhsmedia.github.io/lessons/Let's%20Learn%20About%20God%20Teacher%20Guide.pdf)  
 [Footprints through the Bible Lesson Guide, Summer 2024](https://yhsmedia.github.io/lessons/Footprints%20Through%20the%20Bible%20Teacher%20Guide.pdf) 
 [Following after God Lesson Guide, Spring 2024](https://yhsmedia.github.io/lessons/Following%20After%20God%20Teacher%20Guide%20-%20%20Spring.pdf)  
@@ -41,14 +42,13 @@
 
 
 
-[Growing in God's Word, Spring 2025](https://yhsmedia.github.io/lessons/) 
 
+## Sunday School Teaching Calendars 
 [I Love God's Word Teaching Calendar, Winter 2024](https://yhsmedia.github.io/lessons/I%20Love%20God%E2%80%99s%20Word%20Teaching%20Calendar%2C%20Winter%202024.pdf)
 
 [Let's Learn About God Teaching Calendar, Fall 2024](https://yhsmedia.github.io/lessons/SS%20Calendar%20Fall%202024%20Let's%20Learn%20About%20God%20.pdf)
 
 [Footprints through the Bible Teaching Calendar, Summer 2024](https://yhsmedia.github.io/lessons/SS%20Calendar%20Summer%202024%20Footprints%20through%20the%20Bible.pdf)
-
 [God's Word and Me Teaching Calendar, Winter 2023](https://yhsmedia.github.io/lessons/SS%20Calendar%20Winter%202023%20God's%20Word%20and%20Me.pdf)
 
 ## Heartland Helper Schedules
