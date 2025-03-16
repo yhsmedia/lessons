@@ -19,7 +19,7 @@
 | 4    | Mandy | Karen |
 | 5    | Nancy | Paige C. |
 
- Revised 01/11/25
+ Revised 03/15/25
 
 ## Resources for Children's Church Lessons   
 
