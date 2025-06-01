@@ -11,7 +11,7 @@
 | 4    | Mandy | Karen Hainline |
 | 5    | Daniel | Christie |
 
- Revised 06/1/25
+ Revised 6/1/25
 
 ## Resources for Children's Church Lessons   
 
