@@ -5,21 +5,13 @@
 
 | Week | Boys Bible | Boys Review |
 |------|------------|-------------|
-| 1    | Daniel  |Randy |
-| 2    | Bruce | Joel |
-| 3    | Bruce | Jon K. |
-| 4    | Bruce | J. Magas |
-| 5    | Bruce | Bruce |
+| 1    | Randy  | Charity |
+| 2    | Jonathan | Monica |
+| 3    | Joel, Bri | Rachel |
+| 4    | Mandy | Karen Hainline |
+| 5    | Daniel | Christie |
 
-| Week | Girls Bible | Girls Review |
-|------|------------|-------------|
-| 1    |  Bri F.  | Charity |
-| 2    | Nancy | Christie |
-| 3    | Nancy | Rachel |
-| 4    | Mandy | Karen |
-| 5    | Nancy | Paige C. |
-
- Revised 03/15/25
+ Revised 06/1/25
 
 ## Resources for Children's Church Lessons   
 
