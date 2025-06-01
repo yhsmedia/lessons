@@ -22,7 +22,8 @@
 [Noah Part 1 & 2](https://yhsmedia.github.io/lessons/Noah%20Part%201%20%26%202.pdf)  
 
 ## Sunday School Teacher Lesson Guides   
-[Growing Up with Jesus, Summer 2025 Lesson Guide]()
+
+[Growing Up with Jesus, Summer 2025 Lesson Guide](https://yhsmedia.github.io/lessons/Growing%20Up%20with%20Jesus%20Teacher%20Guide.pdf)
 
 [Growing in God's Word, Spring 2025](https://yhsmedia.github.io/lessons/Growing%20In%20Gods%20Word%20Teacher%20Guide.pdf)  
 
