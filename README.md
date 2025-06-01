@@ -24,6 +24,7 @@
 ## Resources for Children's Church Lessons   
 
 [2025-26 Children's Church Lessons]()
+
 [2024-25 Childrens Church Lessons](https://yhsmedia.github.io/lessons/2024-25%20Childrens%20Church%20Lessons%20PDF.pdf)
 
 [Ten Commandments Visual](https://yhsmedia.github.io/lessons/Ten%20Commandments%20Visual.pdf)  
