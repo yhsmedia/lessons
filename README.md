@@ -5,13 +5,13 @@
 
 | Week | Boys Bible | Boys Review |
 |------|------------|-------------|
-| 1    | Randy  | Charity |
-| 2    | Jonathan | Monica |
-| 3    | Joel, Bri | Rachel |
-| 4    | Mandy | Karen Hainline |
-| 5    | Daniel | Christie |
+| 1    | Daniel  | Randy |
+| 2    | Joel | Jonathan |
+| 3    | JW | J Keppel |
+| 4    | Bruce | ?? |
+| 5    | Bruce | Daniel |
 
- Revised 6/1/25
+ Revised 10/27/25
 
 ## Resources for Children's Church Lessons   
 
