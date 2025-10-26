@@ -11,6 +11,14 @@
 | 4    | Bruce | ?? |
 | 5    | Bruce | Daniel |
 
+| Week | Girls Bible | Girls Review |
+|------|------------|-------------|
+| 1    | Bri  | Charity |
+| 2    | Christie | Monica |
+| 3    | Micah | Rachel |
+| 4    | Mandy | Karen |
+| 5    | ?? | ?? |
+
  Revised 10/27/25
 
 ## Resources for Children's Church Lessons   
