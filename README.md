@@ -5,31 +5,38 @@
 
 | Week | Boys Bible | Boys Review |
 |------|------------|-------------|
-| 1    | Daniel  |Randy |
-| 2    | Bruce | Joel |
-| 3    | Bruce | Jon K. |
-| 4    | Bruce | J. Magas |
-| 5    | Bruce | Bruce |
+| 1    | Daniel  | Randy |
+| 2    | Joel | Jonathan |
+| 3    | JW | J Keppel |
+| 4    | Bruce | ?? |
+| 5    | Bruce | Daniel |
 
 | Week | Girls Bible | Girls Review |
 |------|------------|-------------|
-| 1    |  Bri F.  | Charity |
-| 2    | Nancy | Christie |
-| 3    | Nancy | Rachel |
+| 1    | Bri  | Charity |
+| 2    | Christie | Monica |
+| 3    | Micah | Rachel |
 | 4    | Mandy | Karen |
-| 5    | Nancy | Paige C. |
+| 5    | ?? | ?? |
 
- Revised 03/15/25
+ Revised 10/27/25
 
 ## Resources for Children's Church Lessons   
 
+<<<<<<< HEAD
 [2024-25 Childrens Church Lessons](https://yhsmedia.github.io/lessons/2025-26%20Childrens%20Church%20Lessons%20PDF.pdf)
+=======
+[2025-26 Children's Church Lessons](https://yhsmedia.github.io/lessons/2025-26%20Childrens%20Church%20Lessons%20PDF.pdf)
+>>>>>>> 699130751766160940838212f9ddb71a7f6bd73b
 
 [Ten Commandments Visual](https://yhsmedia.github.io/lessons/Ten%20Commandments%20Visual.pdf)  
 [Jonah Part 1 & 2](https://yhsmedia.github.io/lessons/Jonah%20Part%201%20and%202.pdf)  
 [Noah Part 1 & 2](https://yhsmedia.github.io/lessons/Noah%20Part%201%20%26%202.pdf)  
 
 ## Sunday School Teacher Lesson Guides   
+
+[Growing Up with Jesus, Summer 2025 Lesson Guide](https://yhsmedia.github.io/lessons/Growing%20Up%20with%20Jesus%20Teacher%20Guide.pdf)
+
 [Growing in God's Word, Spring 2025](https://yhsmedia.github.io/lessons/Growing%20In%20Gods%20Word%20Teacher%20Guide.pdf)  
 
 [I Love God's Word Lesson Guide, Winter 2024](https://yhsmedia.github.io/lessons/I%20Love%20God’s%20Word%20Teacher%20Guide.pdf)  
@@ -46,6 +53,8 @@
 
 
 ## Sunday School Lesson Calendars  
+
+[Growing Up with Jesus Teaching Calendar, Summer 2025](https://yhsmedia.github.io/lessons/Growing%20Up%20with%20Jesus%20Summer%202025%20Calendar.pdf)
 
 [Growing in God's Word Teaching Calendar, Spring 2025](https://yhsmedia.github.io/lessons/Growing%20in%20God's%20Word%20%20Spring%202025%20Calendar.pdf)
 
