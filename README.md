@@ -23,7 +23,6 @@
 
 ## Resources for Children's Church Lessons   
 
-<<<<<<< HEAD
 [2024-25 Childrens Church Lessons](https://yhsmedia.github.io/lessons/2025-26%20Childrens%20Church%20Lessons%20PDF.pdf)
 =======
 [2025-26 Children's Church Lessons](https://yhsmedia.github.io/lessons/2025-26%20Childrens%20Church%20Lessons%20PDF.pdf)
