@@ -52,7 +52,7 @@
 
 ## Sunday School Lesson Calendars  
 
-[Gods Word and Me Teaching Calendar Winter 2025–2026](https://yhsmedia.github.io/lessons/)
+[Gods Word and Me Teaching Calendar Winter 2025–2026](https://yhsmedia.github.io/lessons/Gods%20Word%20and%20Me%20Teaching%20Calendar%20Winter%202025%E2%80%932026.pdf)
 
 [Going God's Way Teaching Calendar Fall 2025 Calendar](https://yhsmedia.github.io/lessons/Going%20God's%20Way%20Teaching%20Calendar%20Fall%202025%20Calendar.pdf)
 
