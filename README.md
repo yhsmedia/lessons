@@ -52,6 +52,8 @@
 
 ## Sunday School Lesson Calendars  
 
+[Going God's Way Teaching Calendar Fall 2025 Calendar](https://yhsmedia.github.io/lessons/Going%20God's%20Way%20Teaching%20Calendar%20Fall%202025%20Calendar.pdf)
+
 [Growing Up with Jesus Teaching Calendar, Summer 2025](https://yhsmedia.github.io/lessons/Growing%20Up%20with%20Jesus%20Summer%202025%20Calendar.pdf)
 
 [Growing in God's Word Teaching Calendar, Spring 2025](https://yhsmedia.github.io/lessons/Growing%20in%20God's%20Word%20%20Spring%202025%20Calendar.pdf)
